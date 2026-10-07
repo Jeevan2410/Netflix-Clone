@@ -1,0 +1,12 @@
+{
+  "name": "reelhouse",
+  "private": true,
+  "type": "module",
+  "description": "Reelhouse: a streaming-style TV show browser on the TVmaze API, with motion design; no build step",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
